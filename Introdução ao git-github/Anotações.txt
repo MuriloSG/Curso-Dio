@@ -7,4 +7,4 @@ git add: para adicionar.
 ctrl l: para limpar terminal.
 ls: para exibir.
 git commit: identifica e armazena os arquivos no repositório local.
-
+git push: jogar no github.
