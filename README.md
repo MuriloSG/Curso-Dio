@@ -1,2 +1,5 @@
-## Desafio da dio, git/github.
-- Desafio de git/github
+# Curso-Dio
+## Preparando para a jornada:
+- Introdução a programação e pensamento computacional.
+- Introdução ao git/github. 
+- Desafio -> primeiro repositório.
